@@ -1,0 +1,74 @@
+body {
+background-image: url("./image/aya.jpg");
+background-size: cover;
+    margin: 0px;
+}
+
+#d1 {
+    width :300px;
+    margin-left: 200px;
+    top: 100px;
+}
+
+.col {
+    position: relative;
+}
+
+.c {
+    width: 15%;
+    height: 850px;
+    border: 2px yellow solid;
+    margin-left: 220px;
+    position: absolute;
+    top: -4px;
+}
+
+.c1 {
+    left: 26px;
+}
+
+.c2 {
+    left: 295px;
+}
+
+.c3 {
+    left: 566px;
+}
+
+.c4 {
+    left: 836px;
+}
+img{
+    width:195px;
+    height: 243px;
+    margin-left:13px;
+    border-radius:20px;
+
+}
+#h1{
+    text-align: center;
+    margin-top: 0px;
+}
+p{
+    padding-left: 3px;
+    padding-top: 3px;
+
+}
+.b{
+    width: 195px;
+    height: 25px;border: black 1px solid;
+    margin-left: 13px;
+    margin-top: 10px;
+    text-align: center;
+    padding-top:3px ;
+    border-radius: 10px;
+}
+.b1{
+    font-weight: bold;
+}
+i{
+    
+    margin-left:200px;
+    margin-top:px;
+    font-size:100px;
+}
